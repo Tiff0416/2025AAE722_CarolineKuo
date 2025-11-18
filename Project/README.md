@@ -219,6 +219,13 @@ The recommendations below are designed specifically to achieve a retention lift 
 
 ---
 # ROI Interpretation (Directly Reflecting the Dashboard)
+
+## Live Demo (Streamlit App)
+
+Interactive ROI Simulator & Churn Dashboard:
+
+https://bank-churn-end-to-end-ml-5pqiiyrcbuujqg97zl6wi7.streamlit.app/
+
 Streamlit simulator shows:
 
 With Retention Lift = 4.5%,
