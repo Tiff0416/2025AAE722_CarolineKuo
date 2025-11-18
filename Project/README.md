@@ -9,6 +9,7 @@ The goal is to produce actionable business recommendations supported by data.
 ---
 
 # Project Structure
+```
 BankChurners-Project/
 │
 ├── churn_dashboard/
@@ -47,7 +48,7 @@ BankChurners-Project/
 │
 ├── FinalProject_Presentation.pdf
 └── README.md
-
+```
 ---
 
 # Data Cleaning (SQL Server)
