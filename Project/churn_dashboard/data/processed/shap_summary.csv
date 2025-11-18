@@ -1,0 +1,47 @@
+feature,mean_abs_shap
+Total_Trans_Ct,2.5215073
+Total_Trans_Amt,1.3387189
+Total_Revolving_Bal,0.70435596
+Total_Ct_Chng_Q4_Q1,0.45053226
+Total_Relationship_Count,0.42201936
+Total_Amt_Chng_Q4_Q1,0.42019117
+Months_Inactive_12_mon,0.39592165
+Contacts_Count_12_mon,0.26831338
+Total_Trans_Amt_log,0.22099584
+Total_Revolving_Bal_log,0.18973002
+Customer_Age,0.16343217
+Total_Ct_Chng_Q4_Q1_log,0.10852826
+Avg_Open_To_Buy,0.105474345
+Credit_Limit,0.08912714
+Marital_Status_Married,0.08143943
+Total_Amt_Chng_Q4_Q1_log,0.07789658
+Gender_M,0.07625536
+Age_bin_40–49,0.072899744
+Avg_Utilization_Ratio,0.07271561
+Months_on_book,0.05555799
+Dependent_count,0.038812764
+Credit_Limit_log,0.026538912
+Marital_Status_Single,0.02292953
+Avg_Open_To_Buy_log,0.02069327
+Income_Category_$60K - $80K,0.01944525
+Income_Category_$40K - $60K,0.019290658
+Education_Level_Post-Graduate,0.006833351
+Education_Level_Unknown,0.0058717043
+Education_Level_Graduate,0.0054370407
+Tenure_bin_lt_2 years,0.0047870744
+Age_bin_50–59,0.004365757
+Education_Level_Uneducated,0.0037347921
+Education_Level_High School,0.0032926155
+Age_bin_30–39,0.0027092071
+Income_Category_Unknown,0.0026756616
+Education_Level_Doctorate,0.002144014
+Tenure_bin_3–4 years,0.001992293
+Has_Dependents,0.0018587508
+Income_Category_Less than $40K,0.0018051675
+Marital_Status_Unknown,0.00096401834
+Card_Category_Gold,0.00083778
+Card_Category_Platinum,0.00067910325
+Card_Category_Silver,0.0005817028
+Income_Category_$80K - $120K,0.00015300985
+Tenure_bin_4–5 years,0.0
+Age_bin_60+,0.0

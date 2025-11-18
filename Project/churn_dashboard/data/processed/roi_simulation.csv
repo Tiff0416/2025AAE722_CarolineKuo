@@ -1,0 +1,4 @@
+retention_lift,churn_before,churn_after,incremental_customers,incremental_revenue,campaign_cost,net_profit,ROI
+0.02,0.16,0.14,24.68,7404,12340,-4936,-0.4
+0.04,0.16,0.12,49.36,14808,12340,2468,0.2
+0.06,0.16,0.1,74.04,22212,12340,9872,0.8
