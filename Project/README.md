@@ -95,9 +95,9 @@ BankChurners-Project/
 
 The dataset is highly imbalanced (Negative: 6799 vs Positive: 1302).
 For XGBoost, the weighting parameter:
-
+```
 scale_pos_weight = 5.22
-
+```
 was applied to give more importance to positive class (churners) while training.
 
 ## Model Performance (Test Set)
@@ -186,7 +186,7 @@ Since the dashboard assumes a $10 campaign cost, the main intervention must revo
 
 ### Program Design:
 - Provide a one-time $10 cashback for customers who:
-    make at least X additional transactions in 30 days, or maintain weekly activity for 4 consecutive weeks
+    make at least 3 additional transactions in 30 days, or maintain weekly activity for 4 consecutive weeks
 
 ### Why it’s aligned:
 - Cost = $10 → exactly the Campaign Cost in the dashboard
