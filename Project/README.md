@@ -274,8 +274,6 @@ These insights later guide the segmentation and intervention strategy.
 
 To translate model insights into actionable retention strategies, I performed an unsupervised segmentation based on the **behavioral features** identified by SHAP as the strongest churn drivers.
 
----
-
 ## 1. Feature selection & preprocessing
 
 Segmentation was built on the following SHAP-based behavioral variables:
@@ -299,7 +297,8 @@ Steps:
 
 ## 2. Choosing the number of clusters
 
-For \( k \in \{2, \dots, 8\} \), I fitted K-Means and computed:
+We evaluated K-Means using values of k from 2 to 8.
+I fitted K-Means and computed:
 
 - **Inertia (SSE)** – for the elbow method  
 - **Silhouette score** – for cluster separation quality  
